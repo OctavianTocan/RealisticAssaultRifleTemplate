@@ -7,6 +7,7 @@ It handles the core FPS foundations - realistic movement, shooting mechanics, an
 **Note:** The template is made in Unreal Engine 5.0, but it works with any version from 5.0 all the way up to 5.6 (at the time of writing this).
 
 [Try the demo here!](https://infimagames.gumroad.com/l/demo-realistic-assault-rifle-pack)
+
 [Watch the trailer here!](https://www.youtube.com/watch?v=TNIutG89VlU)
 
 ## Key Features
@@ -65,4 +66,4 @@ Need help getting started or have questions about implementation?
 
 This repository serves as a project showcase and does not contain the actual template assets or code. 
 
-License terms depend on where you purchase the template. Please refer to the specific license agreement provided by your chosen marketplace (FAB or Gumroad) for complete licensing details.
+License terms depend on where you purchase the template. Review the specific license agreement provided by your chosen marketplace (FAB or Gumroad) for complete licensing details.
