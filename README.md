@@ -1,6 +1,6 @@
 # RART - Realistic Assault Rifle Template
 
-![SimpleCover](Images/SimpleCover.jpg)
+![SimpleCover](Images/SimpleCover.png)
 
 The Realistic Assault Rifle Template is a fully customizable Unreal Engine 5 FPS template featuring a game-ready assault rifle, modular attachments, professional animations, and a robust FPS Blueprint system - providing a strong foundation and giving you full control over animations, weapon behavior, and movement.
 
